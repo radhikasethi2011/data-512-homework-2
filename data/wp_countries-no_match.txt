@@ -1,0 +1,68 @@
+africa
+andorra
+asia
+australia
+brunei
+canada
+caribbean
+central america
+central asia
+curacao
+denmark
+dominica
+east asia
+eastern africa
+eastern europe
+eswatini
+europe
+fiji
+french guiana
+french polynesia
+georgia
+guadeloupe
+guam
+guinea-bissau
+guineabissau
+iceland
+ireland
+jamaica
+kiribati
+korea (north)
+korea (south)
+korea, south
+korean
+latin america and the caribbean
+liechtenstein
+martinique
+mauritius
+mayotte
+mexico
+middle africa
+nauru
+netherlands
+new caledonia
+new zealand
+northern africa
+northern america
+northern europe
+oceania
+palau
+philippines
+puerto rico
+reunion
+romania
+san marino
+sao tome and principe
+south america
+south asia
+southeast asia
+southern africa
+southern europe
+suriname
+united kingdom
+united states
+western africa
+western asia
+western europe
+western sahara
+world

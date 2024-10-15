@@ -1,0 +1,9 @@
+country,region,population,article_title,revision_id,article_quality
+austria,WESTERN EUROPE,9.2,Barbara Eibinger-Miedl,,
+azerbaijan,WESTERN ASIA,10.2,Mehrali Gasimov,,
+cameroon,MIDDLE AFRICA,28.1,André Ngongang Ouandji,,
+dominican republic,CARIBBEAN,11.3,Tomás Pimentel,,
+ghana,WESTERN AFRICA,34.1,Richard Sumah,,
+myanmar,SOUTHEAST ASIA,55.4,Kyaw Myint,,
+nigeria,WESTERN AFRICA,223.8,Segun ''Aeroland'' Adewale,,
+somalia,EASTERN AFRICA,18.1,Bashir Bililiqo,,
